@@ -7,7 +7,7 @@ Esse repositório é dedicado ao mundo incrível dos Katas Shotokan! Aqui você 
 
 * **Pesquisa por Kata:** Digita o nome do Kata que você quer aprender e bam! O site te mostra todas as informações, incluindo um vídeo demonstrativo do Youtube (com um sensei de respeito, claro ).
 * **Katas Organizados:** Os Katas estão separados por nível (Básico, Intermediário e Avançado) pra te ajudar a progredir na sua jornada do Karate.
-* **Fontes Confiáveis:** As informações e vídeos usados no site vêm de fontes super conceituadas, como o Karate Faixa Preta e o Ultimate Karate ( bora quebrar essa cueca! ).
+* **Fontes Confiáveis:** As informações e vídeos usados no site vêm de fontes super conceituadas, como o Karate Faixa Preta e o Ultimate Karate ( bora descobrir essa maravilha que é o 'KARATE!' ).
 
 ### Como rodar o projeto? 
 
